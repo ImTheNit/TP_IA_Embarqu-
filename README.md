@@ -14,11 +14,16 @@ Servant chacun à lancer un exercice, contenant l'entrainement + les tests.
 ## 2- Organisation des sources
 
 **src/** contient les sources C et les Makefiles (une paire C + Makefile par exercice) 
+
 **par/** contient les fichiers de paramètres avec les chiffres **modèles** à reconnaître, ainsi que les données bruitées pour effectuer les tests
-**gnuplot** contient les scripts des graphes, un script par graphique.
+
+**gnuplot** contient les scripts des graphes, un script par graphique
+
 **dat/** contient les résultats des éxécutions : 
--fichiers .csv avec les traces
--images .png avec les graphes gnuplot
+
+- fichiers .csv avec les traces
+
+- images .png avec les graphes gnuplot
 
 
 
