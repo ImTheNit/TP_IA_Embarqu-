@@ -19,6 +19,8 @@ Servant chacun à lancer un exercice, contenant l'entrainement + les tests.
 
 **gnuplot** contient les scripts des graphes, un script par graphique
 
+**rapport** contient le rapport, au format .odt et .pdf
+
 **dat/** contient les résultats des éxécutions : 
 
 - fichiers .csv avec les traces
